@@ -1,0 +1,52 @@
+#EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
+https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
+#EXTINF:-1 group-title="Кинозалы BCU [нестабильные]", BCU Cosmo
+http://live.admuspeh.my/8975/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" catchup="append" tvg-logo="https://i115.fastpic.org/big/2021/0801/b1/fedc8a3a26113045a40d22bd2ac5f5b1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",31 канал Челябинск
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/pJSpzRp/thumb-1b6a765369e8bc9e0535852478409267.png" tvg-name="41 регион" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",41 Регион
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/93/ВТК_41_Аргус_(красный_цвет).png/revision/latest/scale-to-width-down/150?cb=20200520084623&path-prefix=ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",41 Телеканал ВТК АРГУС HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:-1 tvg-id="49kanal" catchup="append" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/4e/16/ca4e167c-5f5c-5597-9978-fa2cf7430b91/source/512x512bb.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",49 канал Новосибирск
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="6tv" catchup="append" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png" tvg-name="6тв (хабаровск)" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",6 ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" catchup="append" tvg-logo="https://tvbesedka.com/Upload/2020/10/29/21/41/51/801d599d-1d99-47ec-8e2f-353622083468.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",7 канал Красноярск
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="8vladik" catchup="append" tvg-logo="https://i.ibb.co/vZzsLTd/38-GY5-XBp-200x200.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",8 канал Владивосток
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" catchup="append" tvg-logo="https://i.ibb.co/dLQJHqS/8kk-s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",8 канал Красноярский край
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" catchup="append" tvg-logo="https://i.ibb.co/db4ZYJH/8-kanal-Novosibirsk-200x200.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",8 канал Новосибирск
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="otr-pl4" catchup="append" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТР (Екатеринбург)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="otr-pl4" catchup="append" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТР (Оренбург)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="otr" catchup="append" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТР (Сыктывкар)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_OTR_SKTV/variant.m3u8
+#EXTINF:-1 tvg-id="ots" catchup="append" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9E%D0%A2%D0%A1.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТС HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" tvg-name="область 45" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Область 45 HD (Курган)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSl_-YSrEqNvkQx5Nmt4Aadz9sHlrh-De5Ydi5YcQ=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Омск-ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
+#EXTINF:-1 tvg-id="osetia-iryston" catchup="append" tvg-logo="https://tsifra-tv.ru/upload/medialibrary/fec/fece416af83d755f50ffc9e9d6bb8cb8.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Осетия-Ирыстон HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
