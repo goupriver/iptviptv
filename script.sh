@@ -15,7 +15,7 @@ if [ -f $DUMP_FILE ]; then
 fi
 
 cd $WORK_DIR \
-&& wget -O IPTV_FILE -c https://gitlab.com/iptv135435/iptvshared/raw/main/IPTV_SHARED.m3u
+&& wget -O IPTV_FILE.M3U -c https://gitlab.com/iptv135435/iptvshared/raw/main/IPTV_SHARED.m3u
 
 # удаляем пустые строки из дампа
 sed -i '/^$/d' $DUMP_FILE
@@ -55,3 +55,7 @@ done
 git add .
 git commit -m "$(date +'%e.%m.%Y %R')"
 git push --force
+
+# это необходимо сделать на вашей linux машине
+# 1. сделать файл исполняемым chmod +x /script.sh
+# 2. добавить задачу в crontab (crontab -e; 41 15 * * * /usr/bin/bash /root/iptviptv/script.sh)
