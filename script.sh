@@ -15,7 +15,7 @@ if [ -f $DUMP_FILE ]; then
 fi
 
 cd $WORK_DIR \
-&& wget -O IPTV_FILE -c https://gitlab.com/iptv135435/iptvshared/raw/main/IPTV_SHARED.m3u
+&& wget -O IPTV_FILE.M3U -c https://gitlab.com/iptv135435/iptvshared/raw/main/IPTV_SHARED.m3u
 
 # удаляем пустые строки из дампа
 sed -i '/^$/d' $DUMP_FILE
