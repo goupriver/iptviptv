@@ -52,8 +52,11 @@ for string_from_dump in $(cat $DUMP_FILE); do
     fi
 done
 
+sed -i '1i #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; https://gabbarit.page.link/epg"' $DUMP_FILE 
+
 git add .
 git commit -m "$(date +'%e.%m.%Y %R')"
+git pull
 git push --force
 
 # это необходимо сделать на вашей linux машине
