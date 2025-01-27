@@ -38,7 +38,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD CEE
-https://tv.movielab.pro/145/video.m3u8?token=e3d25152140ba4d43fb7ea1df6b8248941b3c3a9-f8c3610f5fe82d830844defb28983d1d-1737964712-1737878312
+https://tv.movielab.pro/145/video.m3u8?token=b5fdfaa88cf75fd97d2a7377e259f891b05464e5-5fbde906863026b4e1745db535d2c751-1738051037-1737964637
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
 http://live.admuspeh.my/8163/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2 CEE
@@ -48,7 +48,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/0
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! FHD
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
-http://live.admuspeh.my/8018/index.m3u8?token=iptvshared
+https://tv.movielab.pro/146/video.m3u8?token=b5a81d58fb93b2bd95728f8b4e908569c988b436-ef9728019b82c048908c5e6d750dffb0-1738051037-1737964637
 #EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
 http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч Футбол 1 HD
@@ -89,11 +89,11 @@ http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmre
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="Развлекательные",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History HD
-http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc5OTk5ODAsImlhdCI6MTczNzkxMzU4MCwiY2lkIjo2LCJ1aWQiOjg4ODU1OTE5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DCCyfFEtAJwHLJFC49xyzfXJja5coBylfvP7wlKYZAM&offset=3
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzgwNTU3ODAsImlhdCI6MTczNzk2OTM4MCwiY2lkIjo2LCJ1aWQiOjg4ODcyNTIwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.E_uJZeg9pNkEqnbt4ye4hctK3-hDACARZa3U7BCoYQ0&offset=3
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные", Viasat Nature HD
-http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc5OTk5ODAsImlhdCI6MTczNzkxMzU4MCwiY2lkIjo2LCJ1aWQiOjg4ODU1OTE5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DCCyfFEtAJwHLJFC49xyzfXJja5coBylfvP7wlKYZAM&offset=3
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzgwNTU3ODAsImlhdCI6MTczNzk2OTM4MCwiY2lkIjo2LCJ1aWQiOjg4ODcyNTIwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.E_uJZeg9pNkEqnbt4ye4hctK3-hDACARZa3U7BCoYQ0&offset=3
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc5OTk5ODAsImlhdCI6MTczNzkxMzU4MCwiY2lkIjo2LCJ1aWQiOjg4ODU1OTE5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DCCyfFEtAJwHLJFC49xyzfXJja5coBylfvP7wlKYZAM&offset=3
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzgwNTU3ODAsImlhdCI6MTczNzk2OTM4MCwiY2lkIjo2LCJ1aWQiOjg4ODcyNTIwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.E_uJZeg9pNkEqnbt4ye4hctK3-hDACARZa3U7BCoYQ0&offset=3
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra HD
@@ -101,7 +101,7 @@ http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel HD
-https://tv.movielab.pro/147/video.m3u8?token=15bd02e0b27dd532aba9bcf39116736087ce6f7a-49481d76e29a8b5ce9397534f9f7655a-1737964712-1737878312
+https://tv.movielab.pro/147/video.m3u8?token=64c4c3261b6a34c739e7865832ee5f785df490dc-4ea4d6dbf7fc8ecaf0c0de0459550728-1738051037-1737964637
 #EXTINF:-1 tvg-id="skyhigh-docu" group-title="Познавательные", SKY HIGH DOCU HD
 http://live.admuspeh.my/8686/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
@@ -111,9 +111,9 @@ http://31.184.197.124/museum_hd/mono.m3u8
 #EXTINF:-1 tvg-id="home-4k" group-title="Познавательные", Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc5OTk5ODAsImlhdCI6MTczNzkxMzU4MCwiY2lkIjo2LCJ1aWQiOjg4ODU1OTE5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DCCyfFEtAJwHLJFC49xyzfXJja5coBylfvP7wlKYZAM&offset=3
+http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzgwNTU3ODAsImlhdCI6MTczNzk2OTM4MCwiY2lkIjo2LCJ1aWQiOjg4ODcyNTIwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.E_uJZeg9pNkEqnbt4ye4hctK3-hDACARZa3U7BCoYQ0&offset=3
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group-title="Познавательные", #КтоКуда
-http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc5OTk5ODAsImlhdCI6MTczNzkxMzU4MCwiY2lkIjo2LCJ1aWQiOjg4ODU1OTE5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DCCyfFEtAJwHLJFC49xyzfXJja5coBylfvP7wlKYZAM&offset=3
+http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzgwNTU3ODAsImlhdCI6MTczNzk2OTM4MCwiY2lkIjo2LCJ1aWQiOjg4ODcyNTIwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.E_uJZeg9pNkEqnbt4ye4hctK3-hDACARZa3U7BCoYQ0&offset=3
 #EXTINF:-1 group-title="Познавательные",Поехали! HD
 https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC HD
